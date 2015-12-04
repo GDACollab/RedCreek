@@ -123,4 +123,35 @@
 [2015.12.04-19.36.12:479][  0]LightingResults: New page: Lighting Build
 [2015.12.04-19.36.12:494][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001B24532AC0
 [2015.12.04-19.36.12:638][  0]LogAIModule: Creating AISystem for world MainMenu
-[2015.12.04-19.36.12:642][  0]LogEditorServer: Finished looking for o
+[2015.12.04-19.36.12:642][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.12.04-19.36.12:644][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2015.12.04-19.36.12:684][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.481ms to complete.
+[2015.12.04-19.36.12:684][  0]LogFileHelpers: Loading map 'MainMenu' took 0.218
+[2015.12.04-19.36.12:854][  0]LogCollectionManager: Loaded 0 collections in 0.001891 seconds
+[2015.12.04-19.36.12:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1/Documents/GitHub/RedCreek/RedCreek/Saved/Collections/' took 0.01s
+[2015.12.04-19.36.12:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1/Documents/GitHub/RedCreek/RedCreek/Content/Developers/3/Collections/' took 0.01s
+[2015.12.04-19.36.12:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1/Documents/GitHub/RedCreek/RedCreek/Content/Collections/' took 0.01s
+[2015.12.04-19.36.12:912][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000007 seconds
+[2015.12.04-19.36.12:922][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 1893 classes and 338 folders.
+[2015.12.04-19.36.12:934][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2015.12.04-19.36.13:191][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2015.12.04-19.36.13:203][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2015.12.04-19.36.13:381][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.12.04-19.36.13:396][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.12.04-19.36.13:421][  0]LogLoad: Full Startup: 13.84 seconds (BP compile: 0.10 seconds)
+[2015.12.04-19.36.13:432][  0]LogOcInput: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2015.12.04-19.36.13:503][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2015.12.04-19.36.13:639][  0]LogRenderer: Reallocating scene render targets to support 1424x556 (Frame:2).
+[2015.12.04-19.36.13:777][  2]LogAssetRegistry: Asset discovery search completed in 3.3967 seconds
+[2015.12.04-19.36.13:778][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2015.12.04-19.36.13:778][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000246 seconds (updated 0 objects)
+[2015.12.04-19.36.22:223][962]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.12.04-19.36.22:689][962]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 107 classes and 0 folders.
+[2015.12.04-19.36.39:058][777]LogSavePackage: Save=5.390131ms
+[2015.12.04-19.36.39:058][777]LogSavePackage: Moving '../../../../../../Users/1/Documents/GitHub/RedCreek/RedCreek/Saved/Struct_PickUpInfo8498535B4CD73EF615B8EB8D048C8986.tmp' to '../../../../../../Users/1/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/Struct_PickUpInfo.uasset'
+[2015.12.04-19.36.39:065][777]LogSavePackage: Total save time: 29.590338ms
+[2015.12.04-19.36.39:065][777]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/1/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/Struct_PickUpInfo.uasset
+[2015.12.04-19.36.40:848][980]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2015.12.04-19.36.53:034][422]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2015.12.04-19.39.37:205][  6]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2015.12.04-19.43.43:233][160]SourceControl:Error: Error Failed to enable Git source control. You 
