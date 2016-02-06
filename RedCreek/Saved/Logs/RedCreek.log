@@ -836,4 +836,497 @@
 [2016.02.06-03.24.45:837][140]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
 [2016.02.06-03.24.45:837][140]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
 [2016.02.06-03.24.45:838][140]LogWorld: Bringing up level for play took: 0.018170
-[2016.02.06-03
+[2016.02.06-03.24.45:918][140]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 1.293
+[2016.02.06-03.24.45:919][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.25.00:426][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.25.00:477][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.25.00:751][283]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D1B9168E0
+[2016.02.06-03.25.25:534][814]LogEditorTransaction: Undo Resize Widget
+[2016.02.06-03.25.31:314][910]LogSavePackage: Save=537.408691ms
+[2016.02.06-03.25.31:314][910]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp9B99F3894D4038B16FECFBB840E87266.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.25.31:325][910]LogSavePackage: Total save time: 607.988149ms
+[2016.02.06-03.25.31:325][910]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-03.25.31:966][926]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.27.09:388][ 85]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.27.46:251][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RedCreek/Levels/ExampleMap' took 0.231
+[2016.02.06-03.27.46:303][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp] ([1] browsable assets)...
+[2016.02.06-03.27.46:304][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp]
+[2016.02.06-03.27.47:047][410]LogSavePackage: Save=647.361267ms
+[2016.02.06-03.27.47:047][410]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp_Auto1F84674FF43AE76DC1FDE7D854EEF9613.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp_Auto1.uasset'
+[2016.02.06-03.27.47:054][410]LogSavePackage: Total save time: 730.531670ms
+[2016.02.06-03.27.47:054][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp_Auto1.uasset
+[2016.02.06-03.27.47:054][410]LogFileHelpers: Auto-saving content packages took 0.776
+[2016.02.06-03.29.41:751][947]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.30.12:587][610]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.30.25:677][804]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2016.02.06-03.31.38:584][480]LogSavePackage: Save=281.097504ms
+[2016.02.06-03.31.38:584][480]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/ExampleMap146B7C1E441F2EC9CFBD2198B1BB6FDA.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/ExampleMap.umap'
+[2016.02.06-03.31.38:595][480]LogSavePackage: Total save time: 378.705837ms
+[2016.02.06-03.31.38:595][480]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/ExampleMap.umap
+[2016.02.06-03.31.38:764][480]LogFileHelpers: Saving map 'ExampleMap' took 1.104
+[2016.02.06-03.31.39:437][480]LogSavePackage: Save=555.341614ms
+[2016.02.06-03.31.39:437][480]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp718BABED453147722702D3A3F1907B75.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.31.39:449][480]LogSavePackage: Total save time: 627.025571ms
+[2016.02.06-03.31.39:449][480]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-03.32.51:212][ 65]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.33.11:125][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.33.11:125][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-03.33.11:126][496]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 11:33:11 AM)
+[2016.02.06-03.33.11:126][496]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-03.33.11:133][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006983s)
+[2016.02.06-03.33.11:134][496]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-03.33.11:135][496]LogPlayLevel: PIE: World Init took: (0.002057s)
+[2016.02.06-03.33.11:135][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.009454s)
+[2016.02.06-03.33.11:330][496]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-03.33.11:366][496]LogInit: FAudioDevice initialized.
+[2016.02.06-03.33.11:498][496]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-03.33.11:514][496]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2016.02.05-19.33.11
+[2016.02.06-03.33.11:515][496]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.33.11:515][496]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.33.11:516][496]LogWorld: Bringing up level for play took: 0.016594
+[2016.02.06-03.33.11:593][496]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 0.969
+[2016.02.06-03.33.11:594][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.33.16:513][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.33.16:694][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.33.16:878][540]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D03A4D300
+[2016.02.06-03.36.10:260][939]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.36.13:609][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.36.13:610][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-03.36.13:610][994]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 11:36:13 AM)
+[2016.02.06-03.36.13:610][994]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-03.36.13:618][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008230s)
+[2016.02.06-03.36.13:621][994]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-03.36.13:622][994]LogPlayLevel: PIE: World Init took: (0.003510s)
+[2016.02.06-03.36.13:622][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.012167s)
+[2016.02.06-03.36.13:823][994]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-03.36.13:860][994]LogInit: FAudioDevice initialized.
+[2016.02.06-03.36.13:980][994]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-03.36.13:993][994]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2016.02.05-19.36.13
+[2016.02.06-03.36.13:993][994]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.36.13:994][994]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.36.13:995][994]LogWorld: Bringing up level for play took: 0.013608
+[2016.02.06-03.36.14:041][994]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 1.417
+[2016.02.06-03.36.14:041][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.36.18:636][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.36.18:744][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.36.18:952][ 37]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D1A1D11C0
+[2016.02.06-03.37.29:988][569]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.37.30:158][569]LogBlueprint:Error: [compiler InventoryPopUp] Error Binding: Property ' TextDelegate ' on Widget ' TextBlock_0 ': Member:SetText_A1 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2016.02.06-03.37.30:868][569]BlueprintEditorCompileResults:Error: Error Binding: Property ' TextDelegate ' on Widget ' TextBlock_0 ': Member:SetText_A1 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2016.02.06-03.39.47:608][385]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.43.31:545][125]LogSavePackage: Save=651.283997ms
+[2016.02.06-03.43.31:545][125]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp4EAA5EFF4B7C249CCB9534A5D23FD132.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.43.31:556][125]LogSavePackage: Total save time: 827.605471ms
+[2016.02.06-03.43.31:556][125]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-03.43.42:745][369]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.45.26:906][535]LogSavePackage: Save=750.176392ms
+[2016.02.06-03.45.26:906][535]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp91EDB7814099140A4C07399B733B0F28.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.45.26:921][535]LogSavePackage: Total save time: 817.685746ms
+[2016.02.06-03.45.26:922][535]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-03.45.27:411][547]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.46.04:407][326]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.46.14:065][512]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.46.24:855][726]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.46.36:768][964]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.47.30:685][110]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.48.26:853][334]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.48.35:177][491]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.48.43:406][650]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.49.12:683][283]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.49.23:773][505]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.49.28:694][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.49.28:694][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-03.49.28:695][588]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 11:49:28 AM)
+[2016.02.06-03.49.28:695][588]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-03.49.28:703][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008362s)
+[2016.02.06-03.49.28:705][588]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-03.49.28:706][588]LogPlayLevel: PIE: World Init took: (0.002864s)
+[2016.02.06-03.49.28:707][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.011687s)
+[2016.02.06-03.49.28:999][588]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-03.49.29:052][588]LogInit: FAudioDevice initialized.
+[2016.02.06-03.49.29:207][588]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-03.49.29:224][588]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2016.02.05-19.49.29
+[2016.02.06-03.49.29:224][588]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.49.29:225][588]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.49.29:226][588]LogWorld: Bringing up level for play took: 0.017843
+[2016.02.06-03.49.29:297][588]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 0.673
+[2016.02.06-03.49.29:298][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.49.32:066][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.49.32:316][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.49.32:618][612]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D1E99ADE0
+[2016.02.06-03.51.08:902][794]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.51.10:358][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.51.10:358][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-03.51.10:358][802]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 11:51:10 AM)
+[2016.02.06-03.51.10:358][802]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-03.51.10:366][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007923s)
+[2016.02.06-03.51.10:368][802]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-03.51.10:369][802]LogPlayLevel: PIE: World Init took: (0.002659s)
+[2016.02.06-03.51.10:369][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.010995s)
+[2016.02.06-03.51.10:655][802]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-03.51.10:691][802]LogInit: FAudioDevice initialized.
+[2016.02.06-03.51.10:859][802]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-03.51.10:878][802]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2016.02.05-19.51.10
+[2016.02.06-03.51.10:878][802]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.51.10:878][802]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-03.51.10:879][802]LogWorld: Bringing up level for play took: 0.017242
+[2016.02.06-03.51.10:945][802]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 0.32
+[2016.02.06-03.51.10:945][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.51.14:412][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.51.15:076][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-03.51.15:431][838]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D31259EE0
+[2016.02.06-03.51.49:539][587]LogEditorTransaction: Undo Delete current selection
+[2016.02.06-03.51.50:097][594]LogEditorTransaction: Undo Remove Graph
+[2016.02.06-03.52.08:815][979]LogSavePackage: Save=896.263733ms
+[2016.02.06-03.52.08:815][979]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUpCD4565CF46C81FDE99D12CAF0E99C21F.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.52.08:827][979]LogSavePackage: Total save time: 988.656286ms
+[2016.02.06-03.52.08:827][979]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-03.52.19:249][214]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.56.07:369][173]LogSavePackage: Save=795.484619ms
+[2016.02.06-03.56.07:369][173]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp27D04BAA4C17EFF6B22AE4A5570C1129.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.56.07:383][173]LogSavePackage: Total save time: 879.834678ms
+[2016.02.06-03.56.07:383][173]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-03.56.49:785][110]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-03.56.55:349][189]LogSavePackage: Save=765.511353ms
+[2016.02.06-03.56.55:349][189]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUpBBE243EA49DDA33F3437DEA298113942.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-03.56.55:354][189]LogSavePackage: Total save time: 813.875992ms
+[2016.02.06-03.56.55:354][189]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-04.12.41:335][100]LogSavePackage: Save=860.433838ms
+[2016.02.06-04.12.41:335][100]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp9FCD51EC490EC1F401DC089F01DB1F98.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-04.12.41:346][100]LogSavePackage: Total save time: 947.839793ms
+[2016.02.06-04.12.41:346][100]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-04.12.45:800][195]LogEditorTransaction: Undo Move Node
+[2016.02.06-04.13.11:858][768]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.13.13:528][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.13.13:528][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-04.13.13:528][783]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 12:13:13 PM)
+[2016.02.06-04.13.13:528][783]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-04.13.13:535][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006907s)
+[2016.02.06-04.13.13:537][783]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-04.13.13:538][783]LogPlayLevel: PIE: World Init took: (0.002125s)
+[2016.02.06-04.13.13:538][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.009836s)
+[2016.02.06-04.13.13:840][783]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-04.13.13:966][783]LogInit: FAudioDevice initialized.
+[2016.02.06-04.13.14:122][783]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-04.13.14:140][783]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2016.02.05-20.13.14
+[2016.02.06-04.13.14:140][783]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-04.13.14:141][783]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-04.13.14:143][783]LogWorld: Bringing up level for play took: 0.019002
+[2016.02.06-04.13.14:236][783]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 1.612
+[2016.02.06-04.13.14:236][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.13.22:020][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.13.22:193][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.13.22:480][836]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D2F39F2E0
+[2016.02.06-04.17.13:769][262]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.17.14:053][262]LogBlueprint:Error: [compiler InventoryPopUp] Error Binding: Property ' OnMouseButtonDownEvent ' on Widget ' Image_A1 ': Binding: 'None' : 'None' was not found on 'Inventory Pop Up'.
+[2016.02.06-04.17.15:077][262]BlueprintEditorCompileResults:Error: Error Binding: Property ' OnMouseButtonDownEvent ' on Widget ' Image_A1 ': Binding: 'None' : 'None' was not found on 'Inventory Pop Up'.
+[2016.02.06-04.17.28:520][540]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.17.30:923][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.17.30:923][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-04.17.30:923][567]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 12:17:30 PM)
+[2016.02.06-04.17.30:923][567]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-04.17.30:931][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007828s)
+[2016.02.06-04.17.30:933][567]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-04.17.30:934][567]LogPlayLevel: PIE: World Init took: (0.002134s)
+[2016.02.06-04.17.30:934][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.010902s)
+[2016.02.06-04.17.31:229][567]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-04.17.31:264][567]LogInit: FAudioDevice initialized.
+[2016.02.06-04.17.31:419][567]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-04.17.31:437][567]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2016.02.05-20.17.31
+[2016.02.06-04.17.31:437][567]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-04.17.31:438][567]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-04.17.31:440][567]LogWorld: Bringing up level for play took: 0.018958
+[2016.02.06-04.17.31:505][567]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 0.883
+[2016.02.06-04.17.31:506][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.17.34:408][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.17.34:508][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.17.34:894][595]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D465271A0
+[2016.02.06-04.18.19:612][459]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.19.42:755][117]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.19.43:010][117]LogBlueprint:Warning: [compiler InventoryPopUp] Warning Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2016.02.06-04.19.44:001][117]BlueprintEditorCompileResults:Warning: Warning Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2016.02.06-04.20.11:036][648]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.20.14:531][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.20.14:531][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.06-04.20.14:531][699]PIE: New page: PIE session: ExampleMap (Feb 5, 2016, 12:20:14 PM)
+[2016.02.06-04.20.14:532][699]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_ExampleMap
+[2016.02.06-04.20.14:539][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007119s)
+[2016.02.06-04.20.14:541][699]LogAIModule: Creating AISystem for world ExampleMap
+[2016.02.06-04.20.14:541][699]LogPlayLevel: PIE: World Init took: (0.002332s)
+[2016.02.06-04.20.14:541][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/ExampleMap.ExampleMap to /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap (0.009882s)
+[2016.02.06-04.20.14:852][699]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.06-04.20.14:888][699]LogInit: FAudioDevice initialized.
+[2016.02.06-04.20.15:026][699]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.06-04.20.15:041][699]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2016.02.05-20.20.15
+[2016.02.06-04.20.15:042][699]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameSession_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-04.20.15:042][699]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.06-04.20.15:044][699]LogWorld: Bringing up level for play took: 0.015819
+[2016.02.06-04.20.15:091][699]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 0.469
+[2016.02.06-04.20.15:092][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.20.16:960][717]LogBlueprintUserMessages: [InventoryPopUp_C_61] Hello
+[2016.02.06-04.20.20:304][747]LogBlueprintUserMessages: [InventoryPopUp_C_61] Hello
+[2016.02.06-04.20.20:851][752]LogBlueprintUserMessages: [InventoryPopUp_C_61] Hello
+[2016.02.06-04.20.23:660][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.20.23:891][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.06-04.20.24:279][778]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D475C82C0
+[2016.02.06-04.20.43:289][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RedCreek/Levels/ExampleMap' took 0.292
+[2016.02.06-04.20.43:432][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp] ([1] browsable assets)...
+[2016.02.06-04.20.43:432][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp]
+[2016.02.06-04.20.44:541][173]LogSavePackage: Save=1025.724976ms
+[2016.02.06-04.20.44:542][173]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp_Auto2FFE859E84DA86DD5566316AC7EB28CAA.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp_Auto2.uasset'
+[2016.02.06-04.20.44:547][173]LogSavePackage: Total save time: 1108.503062ms
+[2016.02.06-04.20.44:548][173]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp_Auto2.uasset
+[2016.02.06-04.20.44:548][173]LogFileHelpers: Auto-saving content packages took 1.258
+[2016.02.06-04.22.02:205][329]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.22.02:574][329]LogBlueprint:Warning: [compiler InventoryPopUp] Warning Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2016.02.06-04.22.03:471][329]BlueprintEditorCompileResults:Warning: Warning Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2016.02.06-04.22.07:507][416]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.22.07:740][416]LogBlueprint:Warning: [compiler InventoryPopUp] Warning Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2016.02.06-04.22.08:384][416]BlueprintEditorCompileResults:Warning: Warning Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2016.02.06-04.22.50:547][317]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.22.50:762][317]LogBlueprint:Warning: [compiler InventoryPopUp] Warning  Make EventReply  has no property tagged as BlueprintReadWrite. The node will be removed in a future release.
+[2016.02.06-04.22.51:430][317]BlueprintEditorCompileResults:Warning: Warning  Make EventReply  has no property tagged as BlueprintReadWrite. The node will be removed in a future release.
+[2016.02.06-04.23.42:680][352]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.23.46:416][413]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.23.49:317][427]LogSavePackage: Save=956.430054ms
+[2016.02.06-04.23.49:317][427]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp7129E82E4CD4BAA737DF2891FA481C44.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-04.23.49:329][427]LogSavePackage: Total save time: 1017.186660ms
+[2016.02.06-04.23.49:329][427]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-04.23.54:298][533]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.23.57:719][562]LogSavePackage: Save=851.045288ms
+[2016.02.06-04.23.57:719][562]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp21634B6046C80D78A20CA78A13294D93.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-04.23.57:730][562]LogSavePackage: Total save time: 907.178793ms
+[2016.02.06-04.23.57:730][562]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-04.30.45:440][570]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RedCreek/Levels/ExampleMap' took 0.309
+[2016.02.06-04.30.45:470][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp] ([1] browsable assets)...
+[2016.02.06-04.30.45:470][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp]
+[2016.02.06-04.30.46:485][570]LogSavePackage: Save=936.358093ms
+[2016.02.06-04.30.46:485][570]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp_Auto3959DE2504878E1B00B3818900CBF836B.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp_Auto3.uasset'
+[2016.02.06-04.30.46:493][570]LogSavePackage: Total save time: 1017.115768ms
+[2016.02.06-04.30.46:493][570]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Blueprints/UserInterface/InventoryPopUp_Auto3.uasset
+[2016.02.06-04.30.46:493][570]LogFileHelpers: Auto-saving content packages took 1.051
+[2016.02.06-04.34.25:543][307]BlueprintLog: New page: Compile InventoryPopUp
+[2016.02.06-04.34.28:971][318]LogSavePackage: Save=1057.098999ms
+[2016.02.06-04.34.29:003][318]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/InventoryPopUp1157B5A44DC2D3D66E553A9A430C8A9C.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset'
+[2016.02.06-04.34.29:015][318]LogSavePackage: Total save time: 1147.610102ms
+[2016.02.06-04.34.29:015][318]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Blueprints/UserInterface/InventoryPopUp.uasset
+[2016.02.06-04.47.10:777][857]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.02.06-04.47.21:727][857]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.02.06-04.47.21:763][858]Cmd: QUIT_EDITOR
+[2016.02.06-04.47.36:759][858]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.02.06-04.47.48:499][858]LogExit: Preparing to exit.
+[2016.02.06-04.49.00:316][858]LogExit: Editor shut down
+[2016.02.06-04.49.00:602][858]LogExit: Transaction tracking system shut down
+[2016.02.06-04.49.01:181][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D686E6A20
+[2016.02.06-04.49.02:402][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D0D5C44A0
+[2016.02.06-04.49.03:125][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D0D5C53A0
+[2016.02.06-04.49.03:263][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D0ADE8D60
+[2016.02.06-04.49.04:020][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D695D0900
+[2016.02.06-04.51.24:761][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D688449A0
+[2016.02.06-04.51.24:761][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001D0AE7D940
+[2016.02.06-04.51.24:761][858]LogExit: Object subsystem successfully closed.
+[2016.02.06-04.51.44:001][858]LogD3D11RHI: Shutdown
+[2016.02.06-04.51.44:001][858]LogD3D11RHI: CleanupD3DDevice
+[2016.02.06-04.52.02:351][858]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.06-04.52.17:006][858]LogModuleManager: Shutting down and abandoning module CookingStats (201)
+[2016.02.06-04.52.17:045][858]LogModuleManager: Shutting down and abandoning module SequencerWidgets (200)
+[2016.02.06-04.52.17:045][858]LogModuleManager: Shutting down and abandoning module BlueprintGraph (199)
+[2016.02.06-04.52.17:045][858]LogModuleManager: Shutting down and abandoning module CrashTracker (198)
+[2016.02.06-04.52.17:104][858]LogModuleManager: Shutting down and abandoning module SceneOutliner (197)
+[2016.02.06-04.52.17:104][858]LogModuleManager: Shutting down and abandoning module SuperSearch (196)
+[2016.02.06-04.52.17:165][858]LogModuleManager: Shutting down and abandoning module WidgetCarousel (195)
+[2016.02.06-04.52.17:165][858]LogModuleManager: Shutting down and abandoning module AddContentDialog (194)
+[2016.02.06-04.52.20:511][858]LogModuleManager: Shutting down and abandoning module EditorWidgets (193)
+[2016.02.06-04.52.20:511][858]LogModuleManager: Shutting down and abandoning module CollectionManager (192)
+[2016.02.06-04.52.20:753][858]LogModuleManager: Shutting down and abandoning module StatsViewer (191)
+[2016.02.06-04.52.20:862][858]LogModuleManager: Shutting down and abandoning module FoliageEdit (190)
+[2016.02.06-04.52.20:903][858]LogModuleManager: Shutting down and abandoning module LandscapeEditor (189)
+[2016.02.06-04.52.21:342][858]LogModuleManager: Shutting down and abandoning module ActorPickerMode (188)
+[2016.02.06-04.52.21:342][858]LogModuleManager: Shutting down and abandoning module GeometryMode (187)
+[2016.02.06-04.52.21:370][858]LogModuleManager: Shutting down and abandoning module TextureAlignMode (186)
+[2016.02.06-04.52.21:370][858]LogModuleManager: Shutting down and abandoning module BspMode (185)
+[2016.02.06-04.52.21:371][858]LogModuleManager: Shutting down and abandoning module PlacementMode (184)
+[2016.02.06-04.52.21:392][858]LogModuleManager: Shutting down and abandoning module AutomationWorker (183)
+[2016.02.06-04.52.21:413][858]LogModuleManager: Shutting down and abandoning module CharacterAI (182)
+[2016.02.06-04.52.21:443][858]LogModuleManager: Shutting down and abandoning module SmartSnapping (181)
+[2016.02.06-04.52.21:465][858]LogModuleManager: Shutting down and abandoning module ViewportSnapping (180)
+[2016.02.06-04.52.21:536][858]LogModuleManager: Shutting down and abandoning module LogVisualizer (179)
+[2016.02.06-04.52.21:802][858]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (178)
+[2016.02.06-04.52.21:880][858]LogModuleManager: Shutting down and abandoning module IntroTutorials (177)
+[2016.02.06-04.52.22:197][858]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (176)
+[2016.02.06-04.52.22:233][858]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (175)
+[2016.02.06-04.52.22:299][858]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (174)
+[2016.02.06-04.52.22:318][858]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (173)
+[2016.02.06-04.52.23:599][858]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (172)
+[2016.02.06-04.52.23:745][858]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (171)
+[2016.02.06-04.52.23:745][858]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (170)
+[2016.02.06-04.52.23:745][858]LogModuleManager: Shutting down and abandoning module MergeActors (169)
+[2016.02.06-04.52.23:949][858]LogModuleManager: Shutting down and abandoning module SizeMap (168)
+[2016.02.06-04.52.24:001][858]LogModuleManager: Shutting down and abandoning module TreeMap (167)
+[2016.02.06-04.52.24:043][858]LogModuleManager: Shutting down and abandoning module ReferenceViewer (166)
+[2016.02.06-04.52.24:094][858]LogModuleManager: Shutting down and abandoning module LocalizationService (165)
+[2016.02.06-04.52.24:137][858]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (164)
+[2016.02.06-04.52.24:281][858]LogModuleManager: Shutting down and abandoning module HardwareTargeting (163)
+[2016.02.06-04.52.24:333][858]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (162)
+[2016.02.06-04.52.24:434][858]LogModuleManager: Shutting down and abandoning module UndoHistory (161)
+[2016.02.06-04.52.24:455][858]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (160)
+[2016.02.06-04.52.24:532][858]LogModuleManager: Shutting down and abandoning module UserFeedback (159)
+[2016.02.06-04.52.24:533][858]LogModuleManager: Shutting down and abandoning module XmlParser (158)
+[2016.02.06-04.52.24:786][858]LogModuleManager: Shutting down and abandoning module Blutility (157)
+[2016.02.06-04.52.24:832][858]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (156)
+[2016.02.06-04.52.25:556][858]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (155)
+[2016.02.06-04.52.25:662][858]LogModuleManager: Shutting down and abandoning module InputBindingEditor (154)
+[2016.02.06-04.52.26:065][858]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (153)
+[2016.02.06-04.52.26:259][858]LogModuleManager: Shutting down and abandoning module SettingsEditor (152)
+[2016.02.06-04.52.26:788][858]LogModuleManager: Shutting down and abandoning module ProjectLauncher (151)
+[2016.02.06-04.52.27:167][858]LogModuleManager: Shutting down and abandoning module SessionFrontend (150)
+[2016.02.06-04.52.27:506][858]LogModuleManager: Shutting down and abandoning module ProfilerClient (149)
+[2016.02.06-04.52.27:527][858]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (148)
+[2016.02.06-04.52.27:528][858]LogModuleManager: Shutting down and abandoning module DeviceManager (147)
+[2016.02.06-04.52.27:891][858]LogModuleManager: Shutting down and abandoning module AutomationController (146)
+[2016.02.06-04.52.27:977][858]LogModuleManager: Shutting down and abandoning module AutomationWindow (145)
+[2016.02.06-04.52.28:092][858]LogModuleManager: Shutting down and abandoning module Layers (144)
+[2016.02.06-04.52.28:413][858]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (143)
+[2016.02.06-04.52.28:413][858]LogModuleManager: Shutting down and abandoning module DetailCustomizations (142)
+[2016.02.06-04.52.28:443][858]LogModuleManager: Shutting down and abandoning module PackagesDialog (141)
+[2016.02.06-04.52.28:606][858]LogModuleManager: Shutting down and abandoning module Persona (140)
+[2016.02.06-04.52.28:795][858]LogModuleManager: Shutting down and abandoning module Kismet (139)
+[2016.02.06-04.52.28:868][858]LogModuleManager: Shutting down and abandoning module GraphEditor (138)
+[2016.02.06-04.52.28:909][858]LogModuleManager: Shutting down and abandoning module ClassViewer (137)
+[2016.02.06-04.52.29:091][858]LogModuleManager: Shutting down and abandoning module Toolbox (136)
+[2016.02.06-04.52.29:105][858]LogModuleManager: Shutting down and abandoning module ModuleUI (135)
+[2016.02.06-04.52.29:144][858]LogModuleManager: Shutting down and abandoning module MovieSceneTools (134)
+[2016.02.06-04.52.29:179][858]LogModuleManager: Shutting down and abandoning module OutputLog (133)
+[2016.02.06-04.52.29:253][858]LogModuleManager: Shutting down and abandoning module GammaUI (132)
+[2016.02.06-04.52.29:286][858]LogModuleManager: Shutting down and abandoning module Documentation (131)
+[2016.02.06-04.52.29:286][858]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (130)
+[2016.02.06-04.52.29:317][858]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (129)
+[2016.02.06-04.52.29:358][858]LogModuleManager: Shutting down and abandoning module AnalyticsET (128)
+[2016.02.06-04.52.29:358][858]LogModuleManager: Shutting down and abandoning module Analytics (127)
+[2016.02.06-04.52.29:364][858]LogModuleManager: Shutting down and abandoning module AITestSuite (126)
+[2016.02.06-04.52.29:431][858]LogModuleManager: Shutting down and abandoning module GameplayDebugger (125)
+[2016.02.06-04.52.29:497][858]LogModuleManager: Shutting down and abandoning module AIModule (124)
+[2016.02.06-04.52.29:497][858]LogModuleManager: Shutting down and abandoning module ProfilerService (123)
+[2016.02.06-04.52.29:811][858]LogModuleManager: Shutting down and abandoning module TaskGraph (122)
+[2016.02.06-04.52.29:879][858]LogModuleManager: Shutting down and abandoning module SlateRemote (121)
+[2016.02.06-04.52.29:990][858]LogModuleManager: Shutting down and abandoning module SteamVRController (120)
+[2016.02.06-04.52.29:990][858]LogModuleManager: Shutting down and abandoning module SteamVR (119)
+[2016.02.06-04.52.30:048][858]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (118)
+[2016.02.06-04.52.30:082][858]LogModuleManager: Shutting down and abandoning module OculusLibrary (117)
+[2016.02.06-04.52.30:139][858]LogModuleManager: Shutting down and abandoning module OculusInput (116)
+[2016.02.06-04.52.30:139][858]LogModuleManager: Shutting down and abandoning module LeapMotionController (115)
+[2016.02.06-04.52.32:211][858]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (114)
+[2016.02.06-04.52.32:211][858]LogModuleManager: Shutting down and abandoning module CableComponent (113)
+[2016.02.06-04.52.36:983][858]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (112)
+[2016.02.06-04.52.36:983][858]LogModuleManager: Shutting down and abandoning module MessagingDebugger (111)
+[2016.02.06-04.52.37:201][858]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (110)
+[2016.02.06-04.52.38:185][858]LogModuleManager: Shutting down and abandoning module HTML5Networking (109)
+[2016.02.06-04.52.38:185][858]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (108)
+[2016.02.06-04.52.38:185][858]LogModuleManager: Shutting down and abandoning module PluginBrowser (107)
+[2016.02.06-04.52.39:810][858]LogModuleManager: Shutting down and abandoning module EpicSurvey (106)
+[2016.02.06-04.52.40:387][858]LogModuleManager: Shutting down and abandoning module DesktopPlatform (105)
+[2016.02.06-04.52.40:962][858]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (104)
+[2016.02.06-04.52.41:061][858]LogModuleManager: Shutting down and abandoning module UObjectPlugin (103)
+[2016.02.06-04.52.41:061][858]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (102)
+[2016.02.06-04.52.41:500][858]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (101)
+[2016.02.06-04.52.43:271][858]LogModuleManager: Shutting down and abandoning module SourceControl (100)
+[2016.02.06-04.52.43:642][858]LogModuleManager: Shutting down and abandoning module GitSourceControl (99)
+[2016.02.06-04.52.43:642][858]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (98)
+[2016.02.06-04.52.43:742][858]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (97)
+[2016.02.06-04.52.43:899][858]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (96)
+[2016.02.06-04.52.44:020][858]LogModuleManager: Shutting down and abandoning module MeshPaint (95)
+[2016.02.06-04.52.44:165][858]LogModuleManager: Shutting down and abandoning module SlateReflector (94)
+[2016.02.06-04.52.44:998][858]LogModuleManager: Shutting down and abandoning module HotReload (93)
+[2016.02.06-04.52.45:872][858]LogModuleManager: Shutting down and abandoning module MainFrame (92)
+[2016.02.06-04.52.46:314][858]LogModuleManager: Shutting down and abandoning module LevelEditor (91)
+[2016.02.06-04.52.53:815][858]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (90)
+[2016.02.06-04.52.54:383][858]LogModuleManager: Shutting down and abandoning module AssetRegistry (89)
+[2016.02.06-04.53.14:877][858]LogModuleManager: Shutting down and abandoning module ContentBrowser (88)
+[2016.02.06-04.53.15:093][858]LogModuleManager: Shutting down and abandoning module Paper2DEditor (87)
+[2016.02.06-04.53.15:194][858]LogModuleManager: Shutting down and abandoning module UdpMessaging (86)
+[2016.02.06-04.53.15:315][858]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (85)
+[2016.02.06-04.53.15:315][858]LogModuleManager: Shutting down and abandoning module Paper2D (84)
+[2016.02.06-04.53.15:354][858]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (83)
+[2016.02.06-04.53.17:173][858]LogModuleManager: Shutting down and abandoning module Media (82)
+[2016.02.06-04.53.17:259][858]LogModuleManager: Shutting down and abandoning module WmfMedia (81)
+[2016.02.06-04.53.17:567][858]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2016.02.06-04.53.17:567][858]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (79)
+[2016.02.06-04.53.17:567][858]LogModuleManager: Shutting down and abandoning module PropertyEditor (78)
+[2016.02.06-04.53.17:860][858]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (77)
+[2016.02.06-04.53.17:877][858]LogModuleManager: Shutting down and abandoning module FunctionalTesting (76)
+[2016.02.06-04.53.17:939][858]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (75)
+[2016.02.06-04.53.18:091][858]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (74)
+[2016.02.06-04.53.18:158][858]LogModuleManager: Shutting down and abandoning module MessageLog (73)
+[2016.02.06-04.53.18:158][858]LogModuleManager: Shutting down and abandoning module Sequencer (72)
+[2016.02.06-04.53.18:208][858]LogModuleManager: Shutting down and abandoning module AssetTools (71)
+[2016.02.06-04.53.18:271][858]LogModuleManager: Shutting down and abandoning module UMGEditor (70)
+[2016.02.06-04.53.18:285][858]LogModuleManager: Shutting down and abandoning module UMG (69)
+[2016.02.06-04.53.18:285][858]LogModuleManager: Shutting down and abandoning module Slate (68)
+[2016.02.06-04.53.18:285][858]LogModuleManager: Shutting down and abandoning module EditorStyle (67)
+[2016.02.06-04.53.18:610][858]LogModuleManager: Shutting down and abandoning module SessionServices (66)
+[2016.02.06-04.53.18:610][858]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (65)
+[2016.02.06-04.53.18:622][858]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (64)
+[2016.02.06-04.53.18:622][858]LogModuleManager: Shutting down and abandoning module XAudio2 (63)
+[2016.02.06-04.53.18:622][858]LogModuleManager: Shutting down and abandoning module Networking (61)
+[2016.02.06-04.53.18:667][858]LogModuleManager: Shutting down and abandoning module Core (60)
+[2016.02.06-04.53.18:667][858]LogModuleManager: Shutting down and abandoning module KismetCompiler (59)
+[2016.02.06-04.53.18:667][858]LogModuleManager: Shutting down and abandoning module PhysXFormats (58)
+[2016.02.06-04.53.18:691][858]LogModuleManager: Shutting down and abandoning module MeshUtilities (57)
+[2016.02.06-04.53.18:714][858]LogModuleManager: Shutting down and abandoning module DerivedDataCache (56)
+[2016.02.06-04.53.19:348][858]LogDerivedDataCache: Shutdown
+[2016.02.06-04.53.19:349][858]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (55)
+[2016.02.06-04.53.19:725][858]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (54)
+[2016.02.06-04.53.20:112][858]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (53)
+[2016.02.06-04.53.20:152][858]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (52)
+[2016.02.06-04.53.20:153][858]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (51)
+[2016.02.06-04.53.20:153][858]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (50)
+[2016.02.06-04.53.20:170][858]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (49)
+[2016.02.06-04.53.20:193][858]LogModuleManager: Shutting down and abandoning module ImageWrapper (48)
+[2016.02.06-04.53.20:193][858]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (47)
+[2016.02.06-04.53.20:208][858]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (46)
+[2016.02.06-04.53.20:248][858]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (45)
+[2016.02.06-04.53.20:248][858]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (44)
+[2016.02.06-04.53.20:272][858]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (43)
+[2016.02.06-04.53.20:273][858]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (42)
+[2016.02.06-04.53.20:346][858]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (41)
+[2016.02.06-04.53.20:388][858]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (40)
+[2016.02.06-04.53.20:407][858]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.02.06-04.53.20:419][858]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.02.06-04.53.20:420][858]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.02.06-04.53.20:437][858]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.02.06-04.53.20:438][858]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.02.06-04.53.20:469][858]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.02.06-04.53.20:501][858]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.02.06-04.53.20:529][858]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.02.06-04.53.20:556][858]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.02.06-04.53.20:577][858]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.02.06-04.53.20:631][858]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.02.06-04.53.20:632][858]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.02.06-04.53.20:632][858]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.02.06-04.53.20:632][858]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.02.06-04.53.23:215][858]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.02.06-04.53.23:240][858]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.06-04.53.23:258][858]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.06-04.53.23:288][858]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.06-04.53.23:348][858]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.06-04.53.23:365][858]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.06-04.53.23:374][858]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.06-04.53.27:484][858]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.06-04.53.27:523][858]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.06-04.53.27:523][858]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.06-04.53.27:564][858]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.06-04.53.27:564][858]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.06-04.53.27:564][858]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.06-04.53.27:564][858]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.06-04.53.27:627][858]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.06-04.53.27:660][858]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.06-04.53.27:683][858]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.06-04.53.28:192][858]LogExit: Exiting.
+[2016.02.06-04.53.30:222][858]Log file closed, 02/05/16 20:53:30
