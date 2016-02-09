@@ -189,4 +189,294 @@
 [2016.02.09-21.43.50:679][659]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
 [2016.02.09-21.43.50:863][659]LogWorld: Bringing up level for play took: 0.224770
 [2016.02.09-21.43.52:750][659]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_ExampleMap 4.138
-[20
+[2016.02.09-21.43.52:750][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.09-21.43.59:884][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.09-21.44.00:695][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/RedCreek/Levels/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/RedCreek/Levels/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2016.02.09-21.44.01:197][795]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033B770AC00
+[2016.02.09-21.44.20:556][177]LogSavePackage: Save=160.258240ms
+[2016.02.09-21.44.20:556][177]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/AITests63E8E77F457452BA1E5B13BEA2E1786E.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/AITests.umap'
+[2016.02.09-21.44.20:588][177]LogSavePackage: Total save time: 656.210050ms
+[2016.02.09-21.44.20:588][177]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/AITests.umap
+[2016.02.09-21.44.21:188][177]LogFileHelpers: Saving map 'AITests' took 1.848
+[2016.02.09-21.44.21:193][177]Cmd: MAP LOAD FILE="../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/AITests.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.09-21.44.21:193][177]LightingResults: New page: Lighting Build
+[2016.02.09-21.44.21:277][177]LoadErrors: New page: Loading map: AITests.umap
+[2016.02.09-21.44.21:278][177]MapCheck: New page: Map Check
+[2016.02.09-21.44.21:279][177]LightingResults: New page: Lighting Build
+[2016.02.09-21.44.21:395][177]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000339DCA5080
+[2016.02.09-21.44.21:669][177]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.09-21.44.21:708][177]LogAIModule: Creating AISystem for world AITests
+[2016.02.09-21.44.21:827][177]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.09-21.44.22:060][177]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 232.932ms to complete.
+[2016.02.09-21.44.22:061][177]LogFileHelpers: Loading map 'AITests' took 0.871
+[2016.02.09-21.44.52:873][585]LogActorFactory: Actor Factory created Cube
+[2016.02.09-21.44.55:540][635]LogActorFactory: Actor Factory created Cube
+[2016.02.09-21.44.59:783][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.02.09-21.45.13:740][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.02.09-21.45.29:518][332]Cmd: UpdateLandscapeSetup
+[2016.02.09-21.45.31:265][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.09-21.45.31:265][362]PIE: New page: PIE session: AITests (Feb 9, 2016, 5:45:31 AM)
+[2016.02.09-21.45.31:265][362]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_AITests
+[2016.02.09-21.45.31:267][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001981s)
+[2016.02.09-21.45.31:269][362]LogAIModule: Creating AISystem for world AITests
+[2016.02.09-21.45.31:269][362]LogPlayLevel: PIE: World Init took: (0.002074s)
+[2016.02.09-21.45.31:269][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/AITests.AITests to /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests (0.004460s)
+[2016.02.09-21.45.31:426][362]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.09-21.45.31:461][362]LogInit: FAudioDevice initialized.
+[2016.02.09-21.45.31:525][362]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.09-21.45.31:528][362]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests up for play (max tick rate 0) at 2016.02.09-13.45.31
+[2016.02.09-21.45.31:528][362]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameSession_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.45.31:529][362]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.45.31:529][362]LogWorld: Bringing up level for play took: 0.003319
+[2016.02.09-21.45.31:559][362]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_AITests 0.957
+[2016.02.09-21.45.35:249][458]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033C5AEA340
+[2016.02.09-21.45.42:470][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.02.09-21.46.21:663][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.09-21.46.21:664][310]PIE: New page: PIE session: AITests (Feb 9, 2016, 5:46:21 AM)
+[2016.02.09-21.46.21:664][310]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_AITests
+[2016.02.09-21.46.21:666][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002121s)
+[2016.02.09-21.46.21:668][310]LogAIModule: Creating AISystem for world AITests
+[2016.02.09-21.46.21:668][310]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2016.02.09-21.46.21:668][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/AITests.AITests to /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests (0.004366s)
+[2016.02.09-21.46.21:800][310]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.09-21.46.21:833][310]LogInit: FAudioDevice initialized.
+[2016.02.09-21.46.21:891][310]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.09-21.46.21:895][310]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests up for play (max tick rate 0) at 2016.02.09-13.46.21
+[2016.02.09-21.46.21:896][310]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.46.21:896][310]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.46.21:897][310]LogWorld: Bringing up level for play took: 0.004358
+[2016.02.09-21.46.22:066][310]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_AITests -0.535
+[2016.02.09-21.46.23:788][349]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033ABD813A0
+[2016.02.09-21.46.29:873][464]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.09-21.46.36:582][595]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.09-21.46.40:206][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.09-21.46.45:214][760]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.09-21.46.51:153][874]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.09-21.46.52:549][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.09-21.46.52:549][899]PIE: New page: PIE session: AITests (Feb 9, 2016, 5:46:52 AM)
+[2016.02.09-21.46.52:549][899]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_AITests
+[2016.02.09-21.46.52:551][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2016.02.09-21.46.52:553][899]LogAIModule: Creating AISystem for world AITests
+[2016.02.09-21.46.52:553][899]LogPlayLevel: PIE: World Init took: (0.002022s)
+[2016.02.09-21.46.52:554][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/AITests.AITests to /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests (0.004672s)
+[2016.02.09-21.46.52:700][899]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.09-21.46.52:760][899]LogInit: FAudioDevice initialized.
+[2016.02.09-21.46.52:828][899]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.09-21.46.52:833][899]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests up for play (max tick rate 0) at 2016.02.09-13.46.52
+[2016.02.09-21.46.52:833][899]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.46.52:834][899]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.46.52:834][899]LogWorld: Bringing up level for play took: 0.004616
+[2016.02.09-21.46.52:845][899]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_AITests 0.244
+[2016.02.09-21.46.57:725][ 38]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033B05FC9A0
+[2016.02.09-21.47.02:228][ 79]LogSavePackage: Save=47.948257ms
+[2016.02.09-21.47.02:228][ 79]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/AITestsCA8E914C4F7056417E752187D1BED029.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/AITests.umap'
+[2016.02.09-21.47.02:237][ 79]LogSavePackage: Total save time: 148.994394ms
+[2016.02.09-21.47.02:237][ 79]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Content/RedCreek/Levels/AITests.umap
+[2016.02.09-21.47.02:415][ 79]LogFileHelpers: Saving map 'AITests' took 0.742
+[2016.02.09-21.49.21:421][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.09-21.49.21:421][ 39]PIE: New page: PIE session: AITests (Feb 9, 2016, 5:49:21 AM)
+[2016.02.09-21.49.21:421][ 39]LogPlayLevel: Creating play world package: /Game/RedCreek/Levels/UEDPIE_0_AITests
+[2016.02.09-21.49.21:423][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002068s)
+[2016.02.09-21.49.21:425][ 39]LogAIModule: Creating AISystem for world AITests
+[2016.02.09-21.49.21:426][ 39]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2016.02.09-21.49.21:426][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RedCreek/Levels/AITests.AITests to /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests (0.004689s)
+[2016.02.09-21.49.21:585][ 39]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.09-21.49.21:639][ 39]LogInit: FAudioDevice initialized.
+[2016.02.09-21.49.21:701][ 39]LogWorld: Game class is 'GameMode_Level_C'
+[2016.02.09-21.49.21:706][ 39]LogWorld: Bringing World /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests up for play (max tick rate 0) at 2016.02.09-13.49.21
+[2016.02.09-21.49.21:706][ 39]LogActor:Warning: GameSession /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameSession_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.49.21:706][ 39]LogActor:Warning: GameNetworkManager /Game/RedCreek/Levels/UEDPIE_0_AITests.AITests:PersistentLevel.GameNetworkManager_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.09-21.49.21:707][ 39]LogWorld: Bringing up level for play took: 0.004737
+[2016.02.09-21.49.21:718][ 39]PIE: Info Play in editor start time for /Game/RedCreek/Levels/UEDPIE_0_AITests 1.118
+[2016.02.09-21.49.23:166][ 75]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033C5F56FC0
+[2016.02.09-21.49.30:712][220]LogActorFactory: Actor Factory created Cube
+[2016.02.09-21.49.31:759][240]LogActorFactory: Actor Factory created Cube
+[2016.02.09-21.49.44:338][499]LogEditorViewport: Clicking Background
+[2016.02.09-21.49.45:812][527]Cmd: TRANSACTION UNDO
+[2016.02.09-21.49.45:812][527]LogEditorTransaction: Undo Clicking Background
+[2016.02.09-21.49.46:722][554]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2016.02.09-21.49.48:184][588]LogEditorViewport: Clicking Background
+[2016.02.09-21.49.50:936][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.02.09-21.49.51:076][637]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2016.02.09-21.57.02:388][678]LogSavePackage: Save=53.136631ms
+[2016.02.09-21.57.02:388][678]LogSavePackage: Moving '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/AITests_Auto1AB2BDEFF4176618A7595F2B3D9AE0BD8.tmp' to '../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Levels/AITests_Auto1.umap'
+[2016.02.09-21.57.02:396][678]LogSavePackage: Total save time: 177.777622ms
+[2016.02.09-21.57.02:396][678]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jarrett/Documents/GitHub/RedCreek/RedCreek/Saved/Autosaves/Game/RedCreek/Levels/AITests_Auto1.umap
+[2016.02.09-21.57.02:404][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RedCreek/Levels/AITests' took 0.327
+[2016.02.09-21.57.02:404][678]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.327
+[2016.02.09-22.03.50:969][ 26]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.02.09-22.03.52:589][ 27]Cmd: QUIT_EDITOR
+[2016.02.09-22.03.53:899][ 27]LogExit: Preparing to exit.
+[2016.02.09-22.03.57:652][ 27]LogExit: Editor shut down
+[2016.02.09-22.03.57:653][ 27]LogExit: Transaction tracking system shut down
+[2016.02.09-22.03.57:655][ 27]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000339DBF9EE0
+[2016.02.09-22.03.57:657][ 27]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033AB7D1300
+[2016.02.09-22.03.57:663][ 27]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033C50DA5C0
+[2016.02.09-22.03.57:665][ 27]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033C1E4A660
+[2016.02.09-22.03.57:814][ 27]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000033C5251260
+[2016.02.09-22.04.03:087][ 27]LogExit: Object subsystem successfully closed.
+[2016.02.09-22.04.04:144][ 27]LogD3D11RHI: Shutdown
+[2016.02.09-22.04.04:144][ 27]LogD3D11RHI: CleanupD3DDevice
+[2016.02.09-22.04.04:483][ 27]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.09-22.04.05:638][ 27]LogModuleManager: Shutting down and abandoning module CookingStats (199)
+[2016.02.09-22.04.05:638][ 27]LogModuleManager: Shutting down and abandoning module CrashTracker (198)
+[2016.02.09-22.04.05:638][ 27]LogModuleManager: Shutting down and abandoning module SceneOutliner (197)
+[2016.02.09-22.04.05:638][ 27]LogModuleManager: Shutting down and abandoning module SuperSearch (196)
+[2016.02.09-22.04.05:638][ 27]LogModuleManager: Shutting down and abandoning module WidgetCarousel (195)
+[2016.02.09-22.04.05:655][ 27]LogModuleManager: Shutting down and abandoning module AddContentDialog (194)
+[2016.02.09-22.04.05:708][ 27]LogModuleManager: Shutting down and abandoning module EditorWidgets (193)
+[2016.02.09-22.04.05:708][ 27]LogModuleManager: Shutting down and abandoning module CollectionManager (192)
+[2016.02.09-22.04.05:787][ 27]LogModuleManager: Shutting down and abandoning module StatsViewer (191)
+[2016.02.09-22.04.05:832][ 27]LogModuleManager: Shutting down and abandoning module FoliageEdit (190)
+[2016.02.09-22.04.05:847][ 27]LogModuleManager: Shutting down and abandoning module LandscapeEditor (189)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module ActorPickerMode (188)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module GeometryMode (187)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module TextureAlignMode (186)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module BspMode (185)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module PlacementMode (184)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module AutomationWorker (183)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module CharacterAI (182)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module SmartSnapping (181)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module ViewportSnapping (180)
+[2016.02.09-22.04.05:891][ 27]LogModuleManager: Shutting down and abandoning module LogVisualizer (179)
+[2016.02.09-22.04.05:939][ 27]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (178)
+[2016.02.09-22.04.05:966][ 27]LogModuleManager: Shutting down and abandoning module IntroTutorials (177)
+[2016.02.09-22.04.06:013][ 27]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (176)
+[2016.02.09-22.04.06:013][ 27]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (175)
+[2016.02.09-22.04.06:024][ 27]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (174)
+[2016.02.09-22.04.06:025][ 27]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (173)
+[2016.02.09-22.04.06:817][ 27]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (172)
+[2016.02.09-22.04.06:817][ 27]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (171)
+[2016.02.09-22.04.06:817][ 27]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (170)
+[2016.02.09-22.04.06:817][ 27]LogModuleManager: Shutting down and abandoning module MergeActors (169)
+[2016.02.09-22.04.06:841][ 27]LogModuleManager: Shutting down and abandoning module SizeMap (168)
+[2016.02.09-22.04.06:842][ 27]LogModuleManager: Shutting down and abandoning module TreeMap (167)
+[2016.02.09-22.04.06:859][ 27]LogModuleManager: Shutting down and abandoning module ReferenceViewer (166)
+[2016.02.09-22.04.06:876][ 27]LogModuleManager: Shutting down and abandoning module LocalizationService (165)
+[2016.02.09-22.04.06:894][ 27]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (164)
+[2016.02.09-22.04.06:906][ 27]LogModuleManager: Shutting down and abandoning module HardwareTargeting (163)
+[2016.02.09-22.04.06:915][ 27]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (162)
+[2016.02.09-22.04.06:934][ 27]LogModuleManager: Shutting down and abandoning module UndoHistory (161)
+[2016.02.09-22.04.06:949][ 27]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (160)
+[2016.02.09-22.04.06:964][ 27]LogModuleManager: Shutting down and abandoning module UserFeedback (159)
+[2016.02.09-22.04.06:965][ 27]LogModuleManager: Shutting down and abandoning module XmlParser (158)
+[2016.02.09-22.04.06:976][ 27]LogModuleManager: Shutting down and abandoning module Blutility (157)
+[2016.02.09-22.04.06:976][ 27]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (156)
+[2016.02.09-22.04.06:991][ 27]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (155)
+[2016.02.09-22.04.06:991][ 27]LogModuleManager: Shutting down and abandoning module InputBindingEditor (154)
+[2016.02.09-22.04.07:003][ 27]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (153)
+[2016.02.09-22.04.07:003][ 27]LogModuleManager: Shutting down and abandoning module SettingsEditor (152)
+[2016.02.09-22.04.07:017][ 27]LogModuleManager: Shutting down and abandoning module ProjectLauncher (151)
+[2016.02.09-22.04.07:038][ 27]LogModuleManager: Shutting down and abandoning module SessionFrontend (150)
+[2016.02.09-22.04.07:072][ 27]LogModuleManager: Shutting down and abandoning module ProfilerClient (149)
+[2016.02.09-22.04.07:089][ 27]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (148)
+[2016.02.09-22.04.07:089][ 27]LogModuleManager: Shutting down and abandoning module DeviceManager (147)
+[2016.02.09-22.04.07:098][ 27]LogModuleManager: Shutting down and abandoning module AutomationController (146)
+[2016.02.09-22.04.07:115][ 27]LogModuleManager: Shutting down and abandoning module AutomationWindow (145)
+[2016.02.09-22.04.07:125][ 27]LogModuleManager: Shutting down and abandoning module Layers (144)
+[2016.02.09-22.04.07:156][ 27]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (143)
+[2016.02.09-22.04.07:156][ 27]LogModuleManager: Shutting down and abandoning module DetailCustomizations (142)
+[2016.02.09-22.04.07:157][ 27]LogModuleManager: Shutting down and abandoning module PackagesDialog (141)
+[2016.02.09-22.04.07:157][ 27]LogModuleManager: Shutting down and abandoning module Persona (140)
+[2016.02.09-22.04.07:227][ 27]LogModuleManager: Shutting down and abandoning module Kismet (139)
+[2016.02.09-22.04.07:245][ 27]LogModuleManager: Shutting down and abandoning module GraphEditor (138)
+[2016.02.09-22.04.07:315][ 27]LogModuleManager: Shutting down and abandoning module ClassViewer (137)
+[2016.02.09-22.04.07:322][ 27]LogModuleManager: Shutting down and abandoning module Toolbox (136)
+[2016.02.09-22.04.07:322][ 27]LogModuleManager: Shutting down and abandoning module ModuleUI (135)
+[2016.02.09-22.04.07:343][ 27]LogModuleManager: Shutting down and abandoning module MovieSceneTools (134)
+[2016.02.09-22.04.07:357][ 27]LogModuleManager: Shutting down and abandoning module OutputLog (133)
+[2016.02.09-22.04.07:358][ 27]LogModuleManager: Shutting down and abandoning module GammaUI (132)
+[2016.02.09-22.04.07:375][ 27]LogModuleManager: Shutting down and abandoning module Documentation (131)
+[2016.02.09-22.04.07:375][ 27]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (130)
+[2016.02.09-22.04.07:383][ 27]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (129)
+[2016.02.09-22.04.07:383][ 27]LogModuleManager: Shutting down and abandoning module AnalyticsET (128)
+[2016.02.09-22.04.07:383][ 27]LogModuleManager: Shutting down and abandoning module Analytics (127)
+[2016.02.09-22.04.07:383][ 27]LogModuleManager: Shutting down and abandoning module AITestSuite (126)
+[2016.02.09-22.04.07:417][ 27]LogModuleManager: Shutting down and abandoning module GameplayDebugger (125)
+[2016.02.09-22.04.07:441][ 27]LogModuleManager: Shutting down and abandoning module AIModule (124)
+[2016.02.09-22.04.07:441][ 27]LogModuleManager: Shutting down and abandoning module ProfilerService (123)
+[2016.02.09-22.04.07:694][ 27]LogModuleManager: Shutting down and abandoning module TaskGraph (122)
+[2016.02.09-22.04.07:709][ 27]LogModuleManager: Shutting down and abandoning module SlateRemote (121)
+[2016.02.09-22.04.07:710][ 27]LogModuleManager: Shutting down and abandoning module SteamVRController (120)
+[2016.02.09-22.04.07:710][ 27]LogModuleManager: Shutting down and abandoning module SteamVR (119)
+[2016.02.09-22.04.07:710][ 27]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (118)
+[2016.02.09-22.04.07:710][ 27]LogModuleManager: Shutting down and abandoning module OculusLibrary (117)
+[2016.02.09-22.04.07:710][ 27]LogModuleManager: Shutting down and abandoning module OculusInput (116)
+[2016.02.09-22.04.07:710][ 27]LogModuleManager: Shutting down and abandoning module LeapMotionController (115)
+[2016.02.09-22.04.07:871][ 27]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (114)
+[2016.02.09-22.04.07:871][ 27]LogModuleManager: Shutting down and abandoning module CableComponent (113)
+[2016.02.09-22.04.07:879][ 27]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (112)
+[2016.02.09-22.04.07:879][ 27]LogModuleManager: Shutting down and abandoning module MessagingDebugger (111)
+[2016.02.09-22.04.07:908][ 27]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (110)
+[2016.02.09-22.04.08:026][ 27]LogModuleManager: Shutting down and abandoning module HTML5Networking (109)
+[2016.02.09-22.04.08:026][ 27]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (108)
+[2016.02.09-22.04.08:026][ 27]LogModuleManager: Shutting down and abandoning module PluginBrowser (107)
+[2016.02.09-22.04.08:049][ 27]LogModuleManager: Shutting down and abandoning module EpicSurvey (106)
+[2016.02.09-22.04.08:060][ 27]LogModuleManager: Shutting down and abandoning module DesktopPlatform (105)
+[2016.02.09-22.04.08:077][ 27]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (104)
+[2016.02.09-22.04.08:100][ 27]LogModuleManager: Shutting down and abandoning module UObjectPlugin (103)
+[2016.02.09-22.04.08:100][ 27]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (102)
+[2016.02.09-22.04.08:126][ 27]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (101)
+[2016.02.09-22.04.08:154][ 27]LogModuleManager: Shutting down and abandoning module SourceControl (100)
+[2016.02.09-22.04.08:169][ 27]LogModuleManager: Shutting down and abandoning module GitSourceControl (99)
+[2016.02.09-22.04.08:169][ 27]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (98)
+[2016.02.09-22.04.08:169][ 27]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (97)
+[2016.02.09-22.04.08:189][ 27]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (96)
+[2016.02.09-22.04.08:190][ 27]LogModuleManager: Shutting down and abandoning module MeshPaint (95)
+[2016.02.09-22.04.08:190][ 27]LogModuleManager: Shutting down and abandoning module SlateReflector (94)
+[2016.02.09-22.04.08:215][ 27]LogModuleManager: Shutting down and abandoning module HotReload (93)
+[2016.02.09-22.04.08:228][ 27]LogModuleManager: Shutting down and abandoning module MainFrame (92)
+[2016.02.09-22.04.08:228][ 27]LogModuleManager: Shutting down and abandoning module LevelEditor (91)
+[2016.02.09-22.04.08:246][ 27]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (90)
+[2016.02.09-22.04.08:274][ 27]LogModuleManager: Shutting down and abandoning module AssetRegistry (89)
+[2016.02.09-22.04.08:765][ 27]LogModuleManager: Shutting down and abandoning module ContentBrowser (88)
+[2016.02.09-22.04.08:767][ 27]LogModuleManager: Shutting down and abandoning module Paper2DEditor (87)
+[2016.02.09-22.04.08:806][ 27]LogModuleManager: Shutting down and abandoning module UdpMessaging (86)
+[2016.02.09-22.04.08:946][ 27]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (85)
+[2016.02.09-22.04.08:946][ 27]LogModuleManager: Shutting down and abandoning module Paper2D (84)
+[2016.02.09-22.04.08:983][ 27]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (83)
+[2016.02.09-22.04.09:002][ 27]LogModuleManager: Shutting down and abandoning module Media (82)
+[2016.02.09-22.04.09:002][ 27]LogModuleManager: Shutting down and abandoning module WmfMedia (81)
+[2016.02.09-22.04.09:047][ 27]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2016.02.09-22.04.09:047][ 27]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (79)
+[2016.02.09-22.04.09:047][ 27]LogModuleManager: Shutting down and abandoning module PropertyEditor (78)
+[2016.02.09-22.04.09:047][ 27]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (77)
+[2016.02.09-22.04.09:079][ 27]LogModuleManager: Shutting down and abandoning module FunctionalTesting (76)
+[2016.02.09-22.04.09:079][ 27]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (75)
+[2016.02.09-22.04.09:098][ 27]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (74)
+[2016.02.09-22.04.09:098][ 27]LogModuleManager: Shutting down and abandoning module MessageLog (73)
+[2016.02.09-22.04.09:098][ 27]LogModuleManager: Shutting down and abandoning module Sequencer (72)
+[2016.02.09-22.04.09:150][ 27]LogModuleManager: Shutting down and abandoning module AssetTools (71)
+[2016.02.09-22.04.09:189][ 27]LogModuleManager: Shutting down and abandoning module UMGEditor (70)
+[2016.02.09-22.04.09:212][ 27]LogModuleManager: Shutting down and abandoning module UMG (69)
+[2016.02.09-22.04.09:213][ 27]LogModuleManager: Shutting down and abandoning module Slate (68)
+[2016.02.09-22.04.09:213][ 27]LogModuleManager: Shutting down and abandoning module EditorStyle (67)
+[2016.02.09-22.04.09:244][ 27]LogModuleManager: Shutting down and abandoning module SessionServices (66)
+[2016.02.09-22.04.09:244][ 27]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (65)
+[2016.02.09-22.04.09:245][ 27]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (64)
+[2016.02.09-22.04.09:245][ 27]LogModuleManager: Shutting down and abandoning module XAudio2 (63)
+[2016.02.09-22.04.09:245][ 27]LogModuleManager: Shutting down and abandoning module Networking (61)
+[2016.02.09-22.04.09:245][ 27]LogModuleManager: Shutting down and abandoning module Core (60)
+[2016.02.09-22.04.09:245][ 27]LogModuleManager: Shutting down and abandoning module KismetCompiler (59)
+[2016.02.09-22.04.09:255][ 27]LogModuleManager: Shutting down and abandoning module PhysXFormats (58)
+[2016.02.09-22.04.09:286][ 27]LogModuleManager: Shutting down and abandoning module MeshUtilities (57)
+[2016.02.09-22.04.09:314][ 27]LogModuleManager: Shutting down and abandoning module DerivedDataCache (56)
+[2016.02.09-22.04.09:375][ 27]LogDerivedDataCache: Shutdown
+[2016.02.09-22.04.09:375][ 27]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (55)
+[2016.02.09-22.04.09:425][ 27]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (54)
+[2016.02.09-22.04.09:432][ 27]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (53)
+[2016.02.09-22.04.09:450][ 27]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (52)
+[2016.02.09-22.04.09:451][ 27]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (51)
+[2016.02.09-22.04.09:467][ 27]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (50)
+[2016.02.09-22.04.09:498][ 27]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (49)
+[2016.02.09-22.04.09:528][ 27]LogModuleManager: Shutting down and abandoning module ImageWrapper (48)
+[2016.02.09-22.04.09:528][ 27]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (47)
+[2016.02.09-22.04.09:528][ 27]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (46)
+[2016.02.09-22.04.09:528][ 27]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (45)
+[2016.02.09-22.04.09:559][ 27]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (44)
+[2016.02.09-22.04.09:594][ 27]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (43)
+[2016.02.09-22.04.09:707][ 27]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (42)
+[2016.02.09-22.04.09:707][ 27]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (41)
+[2016.02.09-22.04.09:729][ 27]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (40)
+[2016.02.09-22.04.09:751][ 27]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.02.09-22.04.09:751][ 27]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
